@@ -18,6 +18,6 @@ for ( i = 0; i <= email.length; i++) {
     if (invito == email[i]) {
         console.log(`Congratulazioni! Sei stato invitato!`);
     } else {
-        console.log(`Mi dispiace, non sei sulla lista`)
+        console.log(`Mi dispiace, non sei sulla lista`);
     }
 }
